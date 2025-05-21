@@ -59,7 +59,7 @@ Collision detection
 👤 Author
 Azimul Huda
 🌐 GitHub: @azimulhuda
-✉️ Email: azimulhuda3@example.com
+✉️ Email: azimulhuda3@gmail.com
 🙏 Acknowledgements
 Inspired by the original Flappy Bird game by Dong Nguyen
 
